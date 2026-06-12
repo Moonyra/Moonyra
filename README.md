@@ -11,10 +11,10 @@ Developer focused on game addons and small desktop applications that improve qua
 --- 
 
 ## 📌 Projects 
-- [VR Links](https://github.com/34yannik/VRLinks)  
+- [VR Links](https://github.com/Moonyra/VRLinks)  
   A tool to store and quickly access/copy links in VR.
 
-- [VRChat Soundboard](https://github.com/34yannik/VRChatSoundboard)  
+- [VRChat Soundboard](https://github.com/Moonyra/VRChatSoundboard)  
   **Unfinished!** A soundboard designed for VRChat. Sounds can send text via VRChat-OSC with customizable fonts.
 
 --- 
