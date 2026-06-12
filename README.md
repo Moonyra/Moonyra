@@ -3,7 +3,7 @@ Developer focused on game addons and small desktop applications that improve qua
 
 --- 
 
-## 🚀 About Me 
+## About Me 
 - Building Minecraft plugins & game-related tools
 - Creating small desktop apps to automate tasks
 - Always learning & improving
@@ -19,7 +19,7 @@ Developer focused on game addons and small desktop applications that improve qua
 
 --- 
 
-## 🎲 Fun Facts 
+## Fun Facts 
 - I love cats.
 - I don't like bees.
 
