@@ -17,6 +17,9 @@ Developer focused on game addons and small desktop applications that improve qua
 - [VRChat Soundboard](https://github.com/Moonyra/VRChatSoundboard)  
   **Unfinished!** A soundboard designed for VRChat. Sounds can send text via VRChat-OSC with customizable fonts.
 
+- [osu!lazer Beatmap Updater](https://github.com/Moonyra/OsuBeatmapUpdater)  
+  A Windows tool to detect outdated osu!lazer beatmaps and download updated `.osz` files.
+
 --- 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Moonyra&layout=compact&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Moonyra&layout=compact&langs_count=4&theme=radical)
